@@ -1,6 +1,6 @@
-# 🌱 MANI CORDOBA
+# 🌱 Monitoreo Satelital
 
-Sistema de monitoreo de cultivos de maní mediante imágenes satelitales Sentinel-2 y análisis geoespacial.
+Sistema de monitoreo de cultivos de maní mediante imágenes satelitales Sentinel-2 y análisis geoespacial - Córdoba, Argentina.
 
 ## 📋 Descripción
 
@@ -126,5 +126,5 @@ MIT License
 
 ## 👤 Autor
 
-- **Santiago Dario Nicolas Boop**
+- **Dario Nicolas**
 - GitHub: [@sdarionicolas-boop](https://github.com/sdarionicolas-boop)
