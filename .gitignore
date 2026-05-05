@@ -1,0 +1,29 @@
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.eggs/
+*.egg
+dist/
+build/
+*.log
+.env
+.venv/
+venv/
+ENV/
+.DS_Store
+Thumbs.db
+
+# Datos grandes
+datos/
+!datos/externos/*.csv
+resultados/
+outputs/
+
+# Web
+web/streamlit.log
+
+# Scripts de ejecución
+*.bat
+run_streamlit.py
+run_web.bat
